@@ -1,9 +1,3 @@
-# SoftwareNews
-Latest Software News, Technology Updates, AI Trends, Programming News, and Software Release Announcements.
-Here's a professional `README.md` you can use for your **SoftwareNews** GitHub Pages repository.
-
-You can copy and paste this directly.
-
 # SoftwareNews 📰
 
 SoftwareNews is a modern website dedicated to delivering the latest software news, technology updates, AI innovations, programming trends, cybersecurity insights, and software release announcements.
