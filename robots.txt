@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://softwareandhardwarenews.github.io/sitemap.xml
